@@ -1,0 +1,57 @@
+Render CH7-P011 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-011-art.png, IAKESI-CH6-011-lettering.png, and IAKESI-CH6-011-text.txt.
+ARTWORK FILE — IAKESI-CH6-011-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-011-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-011-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Midori-Age-11-Canonical-Character-Specification-v2.txt, Assets/Midori-House-production-sheet.png, Assets/Midori-age11-character-reference-sheet.png, Assets/Midori-age11-expression-sheet.png, Assets/Emi-canonical-character-specification.txt, Assets/Emi-character-Sheet.png, Assets/Emi-Expression-Sheet.png, Assets/Haru-character-sheet.png, Assets/Haru-expression-sheet.png, Assets/Haru-canonical-character-specification.txt.
+Canonical character identity:
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Truk: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Emi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Haru: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Use a stable 2x2 conversational rhythm with varied shot sizes. Reserve the wide final panel for the emotional consequence of sharing food; hands and bowl may carry as much weight as faces.
+- Setting: Midori's home.
+- Scene: Scene 1
+- Action: Midori notices her mother's portion is smaller.
+- Characters: Midori; Terra; Zorna; Truk; Emi.
+
+Panel 2:
+- Panel direction (not printed text): Use a stable 2x2 conversational rhythm with varied shot sizes. Reserve the wide final panel for the emotional consequence of sharing food; hands and bowl may carry as much weight as faces.
+- Setting: Midori's home.
+- Scene: Scene 2
+- Action: Midori moves part of her food into her mother's bowl.
+- Characters: Midori; Terra; Zorna; Truk; Emi.
+
+Panel 3:
+- Panel direction (not printed text): Use a stable 2x2 conversational rhythm with varied shot sizes. Reserve the wide final panel for the emotional consequence of sharing food; hands and bowl may carry as much weight as faces.
+- Setting: Midori's home.
+- Scene: Scene 3
+- Action: Her mother notices.
+- Characters: Midori; Terra; Zorna; Truk; Emi.
+- CH7-P011-S03-D01: emi, speech balloon (one speaker tail): “Midori.”
+
+Panel 4:
+- Panel direction (not printed text): Use a stable 2x2 conversational rhythm with varied shot sizes. Reserve the wide final panel for the emotional consequence of sharing food; hands and bowl may carry as much weight as faces.
+- Setting: Midori's home.
+- Scene: Scene 4
+- Action: Midori answers matter-of-factly.
+- Characters: Midori; Terra; Zorna; Truk; Emi.
+- CH7-P011-S04-D01: midori, speech balloon (one speaker tail): “You need to eat too, Okaa-san.”
+
+Panel 5:
+- Panel direction (not printed text): Use a stable 2x2 conversational rhythm with varied shot sizes. Reserve the wide final panel for the emotional consequence of sharing food; hands and bowl may carry as much weight as faces.
+- Setting: Midori's home.
+- Scene: Scene 5
+- Action: Haru watches in silence.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru.
+
+Story lettering rule: use exactly the 2 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-011-art.png and IAKESI-CH6-011-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

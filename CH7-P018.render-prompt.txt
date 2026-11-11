@@ -1,0 +1,62 @@
+Render CH7-P018 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-018-art.png, IAKESI-CH6-018-lettering.png, and IAKESI-CH6-018-text.txt.
+ARTWORK FILE — IAKESI-CH6-018-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-018-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-018-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Aokawa-Meeting-Hall-production-sheet.png, Assets/Village-Chief-character-reference-sheet.png, Assets/Village-Chief-expression-sheet.png, Assets/VillageChief-Canonical-Character-Specification.txt, Assets/Emi-canonical-character-specification.txt, Assets/Emi-character-Sheet.png, Assets/Haru-character-sheet.png, Assets/Haru-expression-sheet.png, Assets/Haru-canonical-character-specification.txt, Assets/Emi-Expression-Sheet.png, Assets/Aokawa-Village-production-sheet.png.
+Canonical character identity:
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Truk: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Emi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Haru: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Village Chief: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): P1 wide group context. P2-P3 paired reactions. P4 large: isolate Haru when he volunteers, then give Emi equal visual weight as she insists 'We will go.' P5 narrow: quiet first-light transition, figures/environment rather than dialogue staging.
+- Setting: Aokawa Meeting Hall.
+- Scene: Scene 1
+- Action: The plan is stated.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief.
+- CH7-P018-S01-D01: village_chief, speech balloon (one speaker tail): “Someone must travel to Kamakura.”
+
+Panel 2:
+- Panel direction (not printed text): P1 wide group context. P2-P3 paired reactions. P4 large: isolate Haru when he volunteers, then give Emi equal visual weight as she insists 'We will go.' P5 narrow: quiet first-light transition, figures/environment rather than dialogue staging.
+- Setting: Aokawa Meeting Hall.
+- Scene: Scene 2
+- Action: The purpose follows.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief.
+- CH7-P018-S02-D01: village_chief, speech balloon (one speaker tail): “Someone must ask for mercy.”
+
+Panel 3:
+- Panel direction (not printed text): P1 wide group context. P2-P3 paired reactions. P4 large: isolate Haru when he volunteers, then give Emi equal visual weight as she insists 'We will go.' P5 narrow: quiet first-light transition, figures/environment rather than dialogue staging.
+- Setting: Aokawa Meeting Hall.
+- Scene: Scene 3
+- Action: No one speaks immediately.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief.
+
+Panel 4:
+- Panel direction (not printed text): P1 wide group context. P2-P3 paired reactions. P4 large: isolate Haru when he volunteers, then give Emi equal visual weight as she insists 'We will go.' P5 narrow: quiet first-light transition, figures/environment rather than dialogue staging.
+- Setting: Aokawa Meeting Hall.
+- Scene: Scene 4
+- Action: Haru and Emi exchange a look. Haru looks at Emi.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief.
+- CH7-P018-S04-D01: haru, speech balloon (one speaker tail): “I'll go.”
+- CH7-P018-S04-D02: emi, speech balloon (one speaker tail): “We will go.”
+- CH7-P018-S04-D03: emi, speech balloon (one speaker tail): “Both of us.”
+
+Panel 5:
+- Panel direction (not printed text): P1 wide group context. P2-P3 paired reactions. P4 large: isolate Haru when he volunteers, then give Emi equal visual weight as she insists 'We will go.' P5 narrow: quiet first-light transition, figures/environment rather than dialogue staging.
+- Setting: Aokawa Village — pre-dawn / first-light transition.
+- Scene: Scene 5
+- Action: A quiet transitional image anticipating Haru and Emi's departure. No new dialogue.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief.
+- CH7-P018-S05-N01: rectangular narration box, no speech tail: “They would leave at first light.”
+
+Story lettering rule: use exactly the 6 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-018-art.png and IAKESI-CH6-018-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
