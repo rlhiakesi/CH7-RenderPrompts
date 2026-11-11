@@ -1,0 +1,60 @@
+Render CH7-P035 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-035-art.png, IAKESI-CH6-035-lettering.png, and IAKESI-CH6-035-text.txt.
+ARTWORK FILE — IAKESI-CH6-035-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-035-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-035-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Haru-character-sheet.png, Assets/Haru-expression-sheet.png, Assets/Haru-canonical-character-specification.txt, Assets/Kamakura-Audience-Chamber-production-sheet.png, Assets/Kamakura-Generic-Personnel-reference-sheet.png.
+Canonical character identity:
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Truk: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Emi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Haru: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Village Chief: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Takeshi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): P1 wide/medium establishes Haru speaking from below the dais. P2-P5 progressively tighten from medium to close as his practical argument sharpens. Bring Haru closer to EYE LEVEL rather than giving him a heroic low angle.
+- Setting: Kamakura Audience Chamber.
+- Scene: Scene 1
+- Action: Haru clenches his fists.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+
+Panel 2:
+- Panel direction (not printed text): P1 wide/medium establishes Haru speaking from below the dais. P2-P5 progressively tighten from medium to close as his practical argument sharpens. Bring Haru closer to EYE LEVEL rather than giving him a heroic low angle.
+- Setting: Kamakura Audience Chamber.
+- Scene: Scene 2
+- Action: Haru can no longer remain silent.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P035-S02-D01: haru, speech balloon (one speaker tail): “Then our people are doomed.”
+
+Panel 3:
+- Panel direction (not printed text): P1 wide/medium establishes Haru speaking from below the dais. P2-P5 progressively tighten from medium to close as his practical argument sharpens. Bring Haru closer to EYE LEVEL rather than giving him a heroic low angle.
+- Setting: Kamakura Audience Chamber.
+- Scene: Scene 3
+- Action: He continues.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P035-S03-D01: haru, speech balloon (one speaker tail): “If you take what little remains...”
+
+Panel 4:
+- Panel direction (not printed text): P1 wide/medium establishes Haru speaking from below the dais. P2-P5 progressively tighten from medium to close as his practical argument sharpens. Bring Haru closer to EYE LEVEL rather than giving him a heroic low angle.
+- Setting: Kamakura Audience Chamber.
+- Scene: Scene 4
+- Action: Haru states the practical consequence.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P035-S04-D01: haru, speech balloon (one speaker tail): “...there will be nothing left to tax next year.”
+
+Panel 5:
+- Panel direction (not printed text): P1 wide/medium establishes Haru speaking from below the dais. P2-P5 progressively tighten from medium to close as his practical argument sharpens. Bring Haru closer to EYE LEVEL rather than giving him a heroic low angle.
+- Setting: Kamakura Audience Chamber.
+- Scene: Scene 5
+- Action: The chamber goes still.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+
+Story lettering rule: use exactly the 3 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-035-art.png and IAKESI-CH6-035-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

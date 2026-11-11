@@ -1,0 +1,52 @@
+Render CH7-P027 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-027-art.png, IAKESI-CH6-027-lettering.png, and IAKESI-CH6-027-text.txt.
+ARTWORK FILE — IAKESI-CH6-027-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-027-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-027-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 4 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Emi-canonical-character-specification.txt, Assets/Emi-character-Sheet.png, Assets/Emi-Expression-Sheet.png, Assets/Haru-character-sheet.png, Assets/Haru-expression-sheet.png, Assets/Haru-canonical-character-specification.txt.
+Canonical character identity:
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Truk: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Emi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Haru: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Village Chief: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Takeshi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): PRESERVE THE OLD PDF'S SUCCESSFUL ENTRANCE GRAMMAR. P1 large elevated REAR wide shot from behind Haru and Emi overlooking Kamakura; the city fills the distance and makes them small. P2 ground-level medium two-shot/three-quarter view as they enter the dense main approach, both looking upward and around. P3 closer facial coverage within the market/crowd—Haru wary and impressed, Emi openly awed—while retaining enough background to show abundance. P4 rear medium-wide of both facing the crowded avenue/gate, echoing the old sequence; Haru's 'And we are so very small' lands against the city's scale. Do not replace this with a generic low-angle city reveal.
+- Setting: High approach overlooking Kamakura.
+- Scene: Scene 1
+- Action: The city spreads below.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P027-S01-D01: emi, speech balloon (one speaker tail): “It's so large.”
+
+Panel 2:
+- Panel direction (not printed text): PRESERVE THE OLD PDF'S SUCCESSFUL ENTRANCE GRAMMAR. P1 large elevated REAR wide shot from behind Haru and Emi overlooking Kamakura; the city fills the distance and makes them small. P2 ground-level medium two-shot/three-quarter view as they enter the dense main approach, both looking upward and around. P3 closer facial coverage within the market/crowd—Haru wary and impressed, Emi openly awed—while retaining enough background to show abundance. P4 rear medium-wide of both facing the crowded avenue/gate, echoing the old sequence; Haru's 'And we are so very small' lands against the city's scale. Do not replace this with a generic low-angle city reveal.
+- Setting: Kamakura street.
+- Scene: Scene 2
+- Action: They enter dense crowds.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+
+Panel 3:
+- Panel direction (not printed text): PRESERVE THE OLD PDF'S SUCCESSFUL ENTRANCE GRAMMAR. P1 large elevated REAR wide shot from behind Haru and Emi overlooking Kamakura; the city fills the distance and makes them small. P2 ground-level medium two-shot/three-quarter view as they enter the dense main approach, both looking upward and around. P3 closer facial coverage within the market/crowd—Haru wary and impressed, Emi openly awed—while retaining enough background to show abundance. P4 rear medium-wide of both facing the crowded avenue/gate, echoing the old sequence; Haru's 'And we are so very small' lands against the city's scale. Do not replace this with a generic low-angle city reveal.
+- Setting: Kamakura market.
+- Scene: Scene 3
+- Action: They pass food stalls and warehouses.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+
+Panel 4:
+- Panel direction (not printed text): PRESERVE THE OLD PDF'S SUCCESSFUL ENTRANCE GRAMMAR. P1 large elevated REAR wide shot from behind Haru and Emi overlooking Kamakura; the city fills the distance and makes them small. P2 ground-level medium two-shot/three-quarter view as they enter the dense main approach, both looking upward and around. P3 closer facial coverage within the market/crowd—Haru wary and impressed, Emi openly awed—while retaining enough background to show abundance. P4 rear medium-wide of both facing the crowded avenue/gate, echoing the old sequence; Haru's 'And we are so very small' lands against the city's scale. Do not replace this with a generic low-angle city reveal.
+- Setting: Kamakura street.
+- Scene: Scene 4
+- Action: Haru states the contrast.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P027-S04-D01: haru, speech balloon (one speaker tail): “And we are so very small.”
+
+Story lettering rule: use exactly the 2 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-027-art.png and IAKESI-CH6-027-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
