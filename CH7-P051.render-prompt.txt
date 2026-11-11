@@ -1,0 +1,52 @@
+Render CH7-P051 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-051-art.png, IAKESI-CH6-051-lettering.png, and IAKESI-CH6-051-text.txt.
+ARTWORK FILE — IAKESI-CH6-051-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-051-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-051-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 3 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Emi-canonical-character-specification.txt, Assets/Emi-character-Sheet.png, Assets/Midori-Age-11-Canonical-Character-Specification-v2.txt, Assets/Midori-age11-character-reference-sheet.png, Assets/Midori-age11-expression-sheet.png, Assets/SRA-production-sheet.png, Assets/Terra-canonical-character-specification.txt, Assets/Terra-character-sheet.png, Assets/Terra-expression-sheet.png, Assets/Emi-Expression-Sheet.png, Assets/Haru-character-sheet.png, Assets/Haru-expression-sheet.png, Assets/Haru-canonical-character-specification.txt.
+Canonical character identity:
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Truk: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Emi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Haru: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Village Chief: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Takeshi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): P1 medium question/answer. P2 DOMINANT half-page explanatory panel: simple composition, Terra with Haru/Emi low in frame and generous open luminous space for lettering; avoid busy time imagery behind text. P3 wide emotional confirmation.
+- Setting: Soul Relocation Area.
+- Scene: Scene 1
+- Action: Emi asks the question that matters to both of them.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P051-S01-D01: emi, speech balloon (one speaker tail): “Terra-sama... if we remain here, will we ever know what happens to Midori?”
+- CH7-P051-S01-D02: terra, speech balloon (one speaker tail): “Not while you are Acolytes.”
+
+Panel 2:
+- Panel direction (not printed text): P1 medium question/answer. P2 DOMINANT half-page explanatory panel: simple composition, Terra with Haru/Emi low in frame and generous open luminous space for lettering; avoid busy time imagery behind text. P3 wide emotional confirmation.
+- Setting: Soul Relocation Area.
+- Scene: Scene 2
+- Action: Large panel. Luminous views of different periods of Earth history appear as Terra explains Neophyte access to past Earth time.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P051-S02-D01: terra, speech balloon (one speaker tail): “If you eventually become Neophytes...”
+- CH7-P051-S02-D02: terra, speech balloon (one speaker tail): “...you will be able to look backward through Earth time.”
+- CH7-P051-S02-D03: haru, speech balloon (one speaker tail): “Terra-sama... how long would that take?”
+- CH7-P051-S02-D04: terra, speech balloon (one speaker tail): “Around a millennium, perhaps.”
+- CH7-P051-S02-D05: terra, speech balloon (one speaker tail): “It depends on your progress.”
+
+Panel 3:
+- Panel direction (not printed text): P1 medium question/answer. P2 DOMINANT half-page explanatory panel: simple composition, Terra with Haru/Emi low in frame and generous open luminous space for lettering; avoid busy time imagery behind text. P3 wide emotional confirmation.
+- Setting: Soul Relocation Area.
+- Scene: Scene 3
+- Action: Haru and Emi absorb the long wait.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P051-S03-D01: haru, speech balloon (one speaker tail): “And then we could see what happened to her?”
+- CH7-P051-S03-D02: terra, speech balloon (one speaker tail): “Yes.”
+
+Story lettering rule: use exactly the 9 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-051-art.png and IAKESI-CH6-051-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

@@ -1,0 +1,63 @@
+Render CH7-P050 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-050-art.png, IAKESI-CH6-050-lettering.png, and IAKESI-CH6-050-text.txt.
+ARTWORK FILE — IAKESI-CH6-050-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-050-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-050-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/SRA-production-sheet.png, Assets/Terra-canonical-character-specification.txt, Assets/Terra-character-sheet.png, Assets/Terra-expression-sheet.png, Assets/Emi-canonical-character-specification.txt, Assets/Emi-character-Sheet.png, Assets/Haru-character-sheet.png, Assets/Haru-expression-sheet.png, Assets/Haru-canonical-character-specification.txt, Assets/Midori-Age-11-Canonical-Character-Specification-v2.txt, Assets/Midori-age11-character-reference-sheet.png, Assets/Midori-age11-expression-sheet.png, Assets/Emi-Expression-Sheet.png.
+Canonical character identity:
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Truk: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Emi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Haru: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Village Chief: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Takeshi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Door 3: P1 dominant green-gate/DOTG possibility. P2-P3 medium explanation/reactions. P4 wide connects service to the distant future. P5 shallow emotional hold on Haru and Emi thinking of Midori.
+- Setting: Soul Relocation Area — green gateway emphasized.
+- Scene: Scene 1
+- Action: The Domain of the Gods is suggested beyond the gateway.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P050-S01-D01: terra, speech balloon (one speaker tail): “Third, you may remain here.”
+
+Panel 2:
+- Panel direction (not printed text): Door 3: P1 dominant green-gate/DOTG possibility. P2-P3 medium explanation/reactions. P4 wide connects service to the distant future. P5 shallow emotional hold on Haru and Emi thinking of Midori.
+- Setting: Green gateway.
+- Scene: Scene 2
+- Action: Acolytes are shown within the divine environment.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P050-S02-D01: terra, speech balloon (one speaker tail): “You would become Acolytes.”
+
+Panel 3:
+- Panel direction (not printed text): Door 3: P1 dominant green-gate/DOTG possibility. P2-P3 medium explanation/reactions. P4 wide connects service to the distant future. P5 shallow emotional hold on Haru and Emi thinking of Midori.
+- Setting: Soul Relocation Area.
+- Scene: Scene 3
+- Action: Terra explains what happens to their forms.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P050-S03-D01: terra, speech balloon (one speaker tail): “As Acolytes, you would retain the spiritual forms you have here.”
+
+Panel 4:
+- Panel direction (not printed text): Door 3: P1 dominant green-gate/DOTG possibility. P2-P3 medium explanation/reactions. P4 wide connects service to the distant future. P5 shallow emotional hold on Haru and Emi thinking of Midori.
+- Setting: Soul Relocation Area.
+- Scene: Scene 4
+- Action: Terra lightly foreshadows later advancement.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P050-S04-D01: terra, speech balloon (one speaker tail): “If you eventually become Neophytes, you may choose the forms you wish to take.”
+
+Panel 5:
+- Panel direction (not printed text): Door 3: P1 dominant green-gate/DOTG possibility. P2-P3 medium explanation/reactions. P4 wide connects service to the distant future. P5 shallow emotional hold on Haru and Emi thinking of Midori.
+- Setting: Soul Relocation Area.
+- Scene: Scene 5
+- Action: Haru and Emi immediately think of Midori.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P050-S05-D01: haru, speech balloon (one speaker tail): “Our daughter...”
+- CH7-P050-S05-D02: emi, speech balloon (one speaker tail): “Midori...”
+
+Story lettering rule: use exactly the 6 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-050-art.png and IAKESI-CH6-050-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

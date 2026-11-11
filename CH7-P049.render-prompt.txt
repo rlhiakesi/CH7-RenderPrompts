@@ -1,0 +1,54 @@
+Render CH7-P049 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-049-art.png, IAKESI-CH6-049-lettering.png, and IAKESI-CH6-049-text.txt.
+ARTWORK FILE — IAKESI-CH6-049-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-049-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-049-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 4 panels in the resolved SBL reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/SRA-production-sheet.png, Assets/Terra-canonical-character-specification.txt, Assets/Terra-character-sheet.png, Assets/Terra-expression-sheet.png, Assets/Emi-canonical-character-specification.txt, Assets/Emi-character-Sheet.png, Assets/Haru-character-sheet.png, Assets/Haru-expression-sheet.png, Assets/Haru-canonical-character-specification.txt, Assets/Emi-Expression-Sheet.png.
+Canonical character identity:
+- Midori: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Truk: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Emi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Haru: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Village Chief: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Takeshi: Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Door 2 deliberately differs from P48. P1-P2 paired gate/destination views. P3 dominant unfamiliar-world concept with Haru/Emi and Terra secondary. P4 shallow uncertainty beat; no mirrored composition from Door 1.
+- Setting: Soul Relocation Area — gold gateway emphasized.
+- Scene: Scene 1
+- Action: An unfamiliar world appears.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P049-S01-D01: terra, speech balloon (one speaker tail): “Second, you may choose another world.”
+
+Panel 2:
+- Panel direction (not printed text): Door 2 deliberately differs from P48. P1-P2 paired gate/destination views. P3 dominant unfamiliar-world concept with Haru/Emi and Terra secondary. P4 shallow uncertainty beat; no mirrored composition from Door 1.
+- Setting: Gold gateway.
+- Scene: Scene 2
+- Action: Haru and Emi see an unfamiliar civilization.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P049-S02-D01: terra, speech balloon (one speaker tail): “You would retain your memories.”
+
+Panel 3:
+- Panel direction (not printed text): Door 2 deliberately differs from P48. P1-P2 paired gate/destination views. P3 dominant unfamiliar-world concept with Haru/Emi and Terra secondary. P4 shallow uncertainty beat; no mirrored composition from Door 1.
+- Setting: Soul Relocation Area.
+- Scene: Scene 3
+- Action: Terra explains the body rule.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P049-S03-D01: terra, speech balloon (one speaker tail): “A new body would be created for you there, corresponding to the body you have now.”
+
+Panel 4:
+- Panel direction (not printed text): Door 2 deliberately differs from P48. P1-P2 paired gate/destination views. P3 dominant unfamiliar-world concept with Haru/Emi and Terra secondary. P4 shallow uncertainty beat; no mirrored composition from Door 1.
+- Setting: Gold gateway.
+- Scene: Scene 4
+- Action: Different landscapes and unfamiliar people emphasize uncertainty.
+- Characters: Midori; Terra; Zorna; Truk; Emi; Haru; Village Chief; Takeshi.
+- CH7-P049-S04-D01: terra, speech balloon (one speaker tail): “A different world. A different society. No certainty.”
+
+Story lettering rule: use exactly the 4 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-049-art.png and IAKESI-CH6-049-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
